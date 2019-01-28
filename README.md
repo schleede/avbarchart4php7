@@ -9,6 +9,6 @@ little changes to work the dokuwikiplugin avbarchart again.
  
  Please test in your dokuwiki it with:
  
- <pre><barchart>100|A:55,B:5,C:23,D:38</barchart></pre>
+ <pre>&lt;barchart&gt;100|A:55,B:5,C:23,D:38&lt;/barchart&gt;</pre>
 
 * **Richard Borwinius** - *little fixes* - [avbarchart4php7](https://github.com/schleede/avbarchart4php7)
