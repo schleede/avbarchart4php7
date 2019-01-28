@@ -8,11 +8,12 @@ little changes to work the dokuwikiplugin avbarchart again.
  
  delete the old version before you install this newer version.
  
- please download the plugin avbarchart.zip and install it in your dokuwiki if you want this.
+ please download the plugin-avbarchart4php7.zip 
  
+ here: https://github.com/schleede/avbarchart4php7/raw/master/plugin-avbarchart4php7.zip
  
- 
- 
+ and install it in your dokuwiki if you want this.
+  
  Please test in your dokuwiki it with:
  
  <pre>&lt;barchart&gt;100|A:55,B:5,C:23,D:38&lt;/barchart&gt;</pre>
