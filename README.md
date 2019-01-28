@@ -1,11 +1,17 @@
 # avbarchart4php7
 little changes to work the dokuwikiplugin avbarchart again.
 
- please download the plugin avbarchart.zip and install it in your dokuwiki if you want this.
+  
+ the old plugin version have a problem with php7 functions.
+ 
+ ### Installation:
  
  delete the old version before you install this newer version.
  
- the old plugin version have a problem with php7 functions.
+ please download the plugin avbarchart.zip and install it in your dokuwiki if you want this.
+ 
+ 
+ 
  
  Please test in your dokuwiki it with:
  
