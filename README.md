@@ -10,7 +10,7 @@ little changes to work the dokuwikiplugin avbarchart again.
  
  please download the plugin-avbarchart4php7.zip 
  
- here: https://github.com/schleede/avbarchart4php7/raw/master/plugin-avbarchart4php7.zip
+ here: https://github.com/schleede/dokuwiki-plugin-avbarchart4php7/raw/master/plugin-avbarchart4php7.zip
  
  and install it in your dokuwiki if you want this.
   
@@ -22,7 +22,7 @@ little changes to work the dokuwikiplugin avbarchart again.
 
 you should see this:
 
-![a testchart](https://github.com/schleede/avbarchart4php7/raw/master/chart.png)
+![a testchart](https://github.com/schleede/dokuwiki-plugin-avbarchart4php7/raw/master/chart.png)
 
 
 * **Richard Borwinius** - *little fixes* - [avbarchart4php7](https://github.com/schleede/avbarchart4php7)
