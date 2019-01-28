@@ -14,6 +14,8 @@ little changes to work the dokuwikiplugin avbarchart again.
  
  and install it in your dokuwiki if you want this.
   
+ ### Test:
+ 
  Please test in your dokuwiki it with:
  
  <pre>&lt;barchart&gt;100|A:55,B:5,C:23,D:38&lt;/barchart&gt;</pre>
@@ -21,5 +23,6 @@ little changes to work the dokuwikiplugin avbarchart again.
 you should see this:
 
 ![a testchart](https://github.com/schleede/avbarchart4php7/raw/master/chart.png)
+
 
 * **Richard Borwinius** - *little fixes* - [avbarchart4php7](https://github.com/schleede/avbarchart4php7)
